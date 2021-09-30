@@ -1,0 +1,2 @@
+# SQL-Company-DataBase
+In this project, I created multiple tables from scratch using SQL to create a Company DataBase. In this project you will see me utlize processe such as inserting new data into multiple tables, creating relationships between the tables, and altering/updating the tables...pretty much using CRUD operations in this project. You will also get to see me using agrregate functions, nested queries and JOIN operations to answer questions and solve problems. 
